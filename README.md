@@ -6,4 +6,4 @@ The database is accessible using either Command Prompt or within Visual Studio C
 
 See the Final Project Report for further instructions.
 
-This project was for CSDS341 - Introduction to Database Systems and was completed with the help of project teammates James Farmer and Jonathan Lutch.
+This project was for CSDS341 - Introduction to Database Systems and was completed with the help of project teammates James Farmer and Jonathan Lutch. Created in May 2023.
